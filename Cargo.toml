@@ -1,0 +1,15 @@
+[package]
+name = "plume-editor"
+version = "0.1.0"
+edition = "2021"
+authors = ["Thomas Applegate"]
+description = "A small light weight text editor written in rust"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/Thomas-Applegate/plume-editor"
+categories = ["text-editors"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "^1.4"

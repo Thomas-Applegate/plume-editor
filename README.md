@@ -1,2 +1,2 @@
 # plume-editor
-A lightweight text editor made in rust
+A small light weight text editor written in rust
