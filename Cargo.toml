@@ -15,6 +15,7 @@ categories = ["text-editors"]
 strip = true
 debug = false
 opt-level = "s"
+lto = true
 
 [dependencies]
 fltk = "^1.4"
