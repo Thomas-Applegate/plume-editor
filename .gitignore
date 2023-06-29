@@ -1,1 +1,4 @@
 /target
+
+#workspace specific files
+*.geany
